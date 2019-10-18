@@ -1,6 +1,6 @@
 # dacrtilografia
 
-La noción de dactilografía se emplea como sinónimo de mecanografía. Ambos términos aluden a la técnica que se desarrolla al utilizar el teclado de una máquina para escribir.
+La noción de dactilografía se emplea como sinónimo de mecanografía. Ambos términos ayuden a la técnica que se desarrolla al utilizar el teclado de una máquina para escribir para tener mas facil uso de las teclas y el manejo adecuado de la mano en el uso del teclado, asi facilita al momento de escribrir. 
 
 # Aprender mecanografía
 
